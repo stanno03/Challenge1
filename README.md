@@ -39,16 +39,16 @@ Site deployed using Git Hub pages URL is here https://stanno03.github.io/Challen
 <img width="2880" alt="ChallengeOneSitePicturre" src="https://user-images.githubusercontent.com/97717650/226178114-8ecb5f6b-1481-4e4a-bb49-63e5618adfd7.png">
 
 
-##Testing
+## Testing
 Accesssiblity of site was audited using Lighthouse (Google Chrome Dev Tool) current accessibility is 100 with drawbacks to performance.
-```
-##To Do
 
--Align side bar and last section of the main 
--Font size and spacing need to be changed and to adhere to WCAG 
--Testing accessbility using another tool
--Testing site on different browsers
--Testing site on different O/S
-```
+## ToDo
+<ol>
+<li>Align side bar and last section of the main</li> 
+<li>Font size and spacing need to be changed and to adhere to WCAG</li>
+<li>Testing accessbility using another tool</li>
+<li>Testing site on different browsers</li>
+<li>Testing site on different O/S</li>
+</ol>
 
 
