@@ -37,12 +37,12 @@ THEN I find a concise, descriptive title
 Site deployed using Git Hub pages URL is here https://stanno03.github.io/ChallengeOne/
 
 <img width="2880" alt="ChallengeOneSitePicturre" src="https://user-images.githubusercontent.com/97717650/226178114-8ecb5f6b-1481-4e4a-bb49-63e5618adfd7.png">
-tePicturre.png)
+
 
 ```
 ##Testing
 Accesssiblity of site was audited using Lighthouse (Google Chrome Dev Tool) current accessibility is 100 with drawbacks to performance.
-
+```
 ##To Do
 -Align side bar and last section of the main 
 -Font size and spacing need to be changed and to adhere to WCAG 
