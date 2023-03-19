@@ -65,8 +65,6 @@ p {
 }
 
 .float-right {
-    height: 200;
-    width: 306.15;
     float: right;
     margin-left: 25px;
 }
@@ -107,42 +105,42 @@ p {
 }
 
 .benefit-lead h3 {
-    font-size: 25;
+    font-size: 25px;
     margin-bottom: 10px;
     text-align: center;
 }
 
 .benefit-brand h3 {
-    font-size: 25;
+    font-size: 25px;
     margin-bottom: 10px;
     text-align: center;
 }
 
 .benefit-cost h3 {
-    font-size: 25;
+    font-size: 25px;
     margin-bottom: 10px;
     text-align: center;
 }
 
 .benefit-lead img {
-    height: 150;
-    width: 150;
+    height: 150px;
+    width: 150px;
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
 .benefit-brand img {
-    height: 150;
-    width: 150;
+    height: 150px;
+    width: 150px;
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
 .benefit-cost img {
-    height: 150;
-    width: 150;
+    height: 150px;
+    width: 150px;
     display: block;
     margin: 10px auto;
     max-width: 150px;
