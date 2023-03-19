@@ -1,6 +1,6 @@
 # Bootcamp Challenge 1
 
-## The Challenege
+## The Challenege (To Do can be found at the bottom of this ReadMe)
 
 **Refactoring** existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology is a common task for front-end and junior developers. For this particular Challenge, a marketing agency has hired you to refactor an existing site to make it more accessible. 
 
@@ -33,7 +33,22 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+## Site
+Site deployed using Git Hub pages URL is here https://stanno03.github.io/ChallengeOne/
 
+<img width="2880" alt="ChallengeOneSitePicturre" src="https://user-images.githubusercontent.com/97717650/226178114-8ecb5f6b-1481-4e4a-bb49-63e5618adfd7.png">
+tePicturre.png)
+
+```
+##Testing
+Accesssiblity of site was audited using Lighthouse (Google Chrome Dev Tool) current accessibility is 100 with drawbacks to performance.
+
+##To Do
+-Align side bar and last section of the main 
+-Font size and spacing need to be changed and to adhere to WCAG 
+-Testing accessbility using another tool
+-Testing site on different browsers
+-Testing site on different O/S
 
 
 
