@@ -44,7 +44,9 @@ Accesssiblity of site was audited using Lighthouse (Google Chrome Dev Tool) curr
 
 ## ToDo
 <ol>
-<li>Align side bar and last section of the main</li> 
+<li>change current box model css to flex boxes</li>
+<li>Align side bar and last section of the main</li>
+<li>Change viewpoint and add media queries for responsive resolution</li>  
 <li>Font size and spacing need to be changed and to adhere to WCAG</li>
 <li>Testing accessbility using another tool</li>
 <li>Testing site on different browsers</li>
